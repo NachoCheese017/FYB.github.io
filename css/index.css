@@ -1,6 +1,32 @@
+body
+    {
+        background-image: url(../images/echtergrund.png);
+        background-repeat: repeat;
+        background: cover;
+    }
+h3
+    {
+        color: whitesmoke !important;
+    }
+.headtitle
+    {
+        font-size: 100px;
+        margin: 0px;
+        color: rgb(105, 176, 108);
+        font-family: Impact;
+    }
+.desctitle
+    {
+        font-size: 20px;
+        margin: 0px;
+        color: rgb(105, 176, 108);
+        font-family: Impact;
+    }
 .optionmenu     
     {
         font-size: 25px;
+        margin-top: 50px;
+        color: whitesmoke !important;
     }
 #picturesc
     {
@@ -10,42 +36,52 @@
     }
 .examplesc
     {
-        margin-top: 75px;
+        margin-top: 20px;
     }
 .exampledesc
     {
         margin-top: 30px;
         font-size: 25px;
+        color: rgb(105, 176, 108);
     }
 .infotext
     {
         font-size: 17px;
+        color: whitesmoke !important;
     }
 .titlepage
     {
-        background-color: rgba(63, 191, 84, 0.52);
+        background-color: rgba(69, 69, 69, 0.85);
         padding-top: 20px;
         padding-bottom: 20px;   
     }
 .example
     {
-        background-color: rgba(243, 11, 15, 0.36);
+        background-color: rgb(26, 26, 26);
         padding-top: 20px;
         padding-bottom: 20px;
     }
 .information
     {
-        background-color: rgba(107, 111, 188, 0.36);
+        background-color: rgba(64, 64, 64, 0.85);
         padding-top: 20px;
         padding-bottom: 20px;
     }
 .contact
     {
-        background-color: rgba(231, 39, 39, 0.52);
+        background-color: rgb(21, 21, 21);
         padding-top: 20px;
         padding-bottom: 20px;
     }
-.betweenspacefa
+.contform
     {
-        margin: 50px;
+        color: red;
+    }
+i
+    {
+        color: rgb(105, 176, 108) !important;
+    }
+i:hover
+    {
+        color: rgb(53, 100, 55) !important;
     }
