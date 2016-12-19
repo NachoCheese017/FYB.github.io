@@ -17,3 +17,35 @@
         margin-top: 30px;
         font-size: 25px;
     }
+.infotext
+    {
+        font-size: 17px;
+    }
+.titlepage
+    {
+        background-color: rgba(63, 191, 84, 0.52);
+        padding-top: 20px;
+        padding-bottom: 20px;   
+    }
+.example
+    {
+        background-color: rgba(243, 11, 15, 0.36);
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+.information
+    {
+        background-color: rgba(107, 111, 188, 0.36);
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+.contact
+    {
+        background-color: rgba(231, 39, 39, 0.52);
+        padding-top: 20px;
+        padding-bottom: 20px;
+    }
+.betweenspacefa
+    {
+        margin: 50px;
+    }
