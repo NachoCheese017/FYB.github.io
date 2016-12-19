@@ -1,0 +1,19 @@
+.optionmenu     
+    {
+        font-size: 25px;
+    }
+#picturesc
+    {
+        width: 250px;
+        height: 250px;
+        border-radius: 50%;
+    }
+.examplesc
+    {
+        margin-top: 75px;
+    }
+.exampledesc
+    {
+        margin-top: 30px;
+        font-size: 25px;
+    }
