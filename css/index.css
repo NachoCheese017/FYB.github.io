@@ -12,14 +12,14 @@ h3
     {
         font-size: 100px;
         margin: 0px;
-        color: rgb(105, 176, 108);
+        color: rgb(108, 147, 34);
         font-family: Impact;
     }
 .desctitle
     {
         font-size: 20px;
         margin: 0px;
-        color: rgb(105, 176, 108);
+        color: rgb(108, 147, 34);
         font-family: Impact;
     }
 .optionmenu     
@@ -73,9 +73,13 @@ h3
         padding-top: 20px;
         padding-bottom: 20px;
     }
-.contform
+.forml
     {
-        color: red;
+        text-align: left;
+    }
+.formr
+    {
+        text-align: right;
     }
 i
     {
@@ -84,4 +88,10 @@ i
 i:hover
     {
         color: rgb(53, 100, 55) !important;
+    }
+.copyr
+    {
+        color: whitesmoke !important;
+        font-size: 10px;
+        margin: 0px;
     }
